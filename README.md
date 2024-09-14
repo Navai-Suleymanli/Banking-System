@@ -1,4 +1,4 @@
-#Banking System
+## Banking System
 
 Welcome to the **Simple Banking System**, a C++ project demonstrating object-oriented programming concepts and file handling techniques. This project allows users to perform basic banking operations such as creating an account, depositing money, withdrawing money, and viewing account details, all while persisting account data into a file.
 
